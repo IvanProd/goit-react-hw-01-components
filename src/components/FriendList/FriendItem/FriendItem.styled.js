@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Friend = styled.li`
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 10px;
   width: 320px;
   margin-left: auto;
   margin-right: auto;
