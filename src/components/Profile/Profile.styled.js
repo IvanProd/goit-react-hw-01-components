@@ -6,6 +6,7 @@ export const UserCard = styled.div`
   margin-right: auto;
   width: 320px;
   border: 1px solid black;
+  border-radius: 8px 8px 0 0;
   background-color: #fff;
 `;
 

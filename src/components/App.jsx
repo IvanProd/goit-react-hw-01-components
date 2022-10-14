@@ -13,13 +13,8 @@ export const App = () => {
     <>
       <Profile  user={user} />
       <Statistics title="Upload stats" stats={data} />
-      <Statistics stats={data} />
       <FriendList friends={friends} />
       <TransactionHistory items={transactions} />;
     </>
   );
 };
-console.log(data)
-console.log(user)
-console.log(friends)
-console.log(transactions)
